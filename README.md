@@ -6,8 +6,8 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 4 hours listening music.
 
-[![Linkedin: ikshitjalan](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ikshit-jalan-b40718155/)](https://www.linkedin.com/in/ikshit-jalan-b40718155/)
-[![GitHub ikshitjalan](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/ikshitjalan)
+[![Linkedin: ikshitjalan](https://img.shields.io/badge/-ikshitjalan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ikshit-jalan-b40718155/)](https://www.linkedin.com/in/ikshit-jalan-b40718155/)
+[![GitHub ikshitjalan](https://img.shields.io/github/followers/ikshitjalan?label=follow&style=social)](https://github.com/ikshitjalan)
 
 
 **Languages and Tools:**  
