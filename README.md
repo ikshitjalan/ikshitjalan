@@ -16,7 +16,11 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
 
+<a href="https://github.com/ikshitjalan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikshitjalan&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/ikshitjalan">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ikshitjalan&show_icons=true&theme=light&line_height=27" alt="Ikshit's github stats"/>
 </a>
 
 
-https://github-readme-stats.vercel.app/api?username=ikshitjalan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
